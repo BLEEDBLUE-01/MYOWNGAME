@@ -1,3 +1,4 @@
+//HI THIS IS AN EDIT.
 var PLAY = 1;
 var END = 0;
 var gameState = PLAY;
